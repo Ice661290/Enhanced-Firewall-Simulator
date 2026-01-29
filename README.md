@@ -84,3 +84,15 @@
 
 ---
 
+## ภาพตัวอย่างโปรแกรม
+
+![Ex](https://github.com/user-attachments/assets/1a29cca0-c7bc-424b-8f66-80c9a3a3cce9)
+
+อันนี้จะแสดงบนTerminal
+
+<img width="528" height="162" alt="Screenshot 2026-01-29 095200" src="https://github.com/user-attachments/assets/3d2a150c-b414-4ed7-b08c-4b3560a42a3e" />
+
+---
+
+
+
